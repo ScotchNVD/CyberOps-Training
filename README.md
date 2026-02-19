@@ -49,7 +49,6 @@ While I explore multiple platforms, my primary starting point is **TryHackMe** (
 | 15  | 16 Feb     | No training done    | N/A                                   | 0 min      | N/A                                                | ⛔ N/A         |
 | 16  | 17 Feb     | TryHackMe           | Detecting Web Attacks                 | 10 min     | Intro to Detecting Web Attacks                     | ✅ Done        |
 | 17  | 18 Feb     | TryHackMe           | Detecting Web Attacks                 | 30 min     | Client-side & Server-side attacks. Web access logs | ⏳ In Progress |
-
 | ... | ...        | ...                 | ...                                   | ...        | ...                                                | ...             |
 
 ### Legend 
@@ -89,6 +88,13 @@ While I explore multiple platforms, my primary starting point is **TryHackMe** (
 ### Day 12 
 Going through Web security basics
 
+### Day 17
+> Exploring Web Attack detection, understanding Client-side attacks (exploiting browser and user devices to reveal or gain access to sensitive data)
+> XSS - Malicious script hosted on a legit website, inadvertedly executing in a users browser upon accessing a feature on the website.
+> CSRF - A user's browser getting tricked into sending unauthorized requests on behalf of the legit/trusted user.
+> Clickjacking - User clicking on malicious elements overlayed on top of legitimate content (think free movie websites)
+
+> Server-side attacks  
 ...
 
 ---
