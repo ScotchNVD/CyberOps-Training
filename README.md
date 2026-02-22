@@ -48,7 +48,11 @@ While I explore multiple platforms, my primary starting point is **TryHackMe** (
 | 14  | 15 Feb     | No training done    | N/A                                   | 0 min      | N/A                                                | ⛔ N/A         |
 | 15  | 16 Feb     | No training done    | N/A                                   | 0 min      | N/A                                                | ⛔ N/A         |
 | 16  | 17 Feb     | TryHackMe           | Detecting Web Attacks                 | 10 min     | Intro to Detecting Web Attacks                     | ✅ Done        |
-| 17  | 18 Feb     | TryHackMe           | Detecting Web Attacks                 | 30 min     | Client-side & Server-side attacks. Web access logs | ⏳ In Progress |
+| 17  | 18 Feb     | TryHackMe           | Detecting Web Attacks                 | 30 min     | Client-side & Server-side attacks.                 | ✅ Done        |
+| 18  | 19 Feb     | TryHackMe           | Detecting Web Attacks                 | 30 min     | Log Based Detection. Analyzing Web access logs     | ✅ Done        |
+| 19  | 20 Feb     | TryHackMe           | Detecting Web Attacks                 | 30 min     | Further review of web access log structure         | ✅ Done        |
+| 20  | 21 Feb     | TryHackMe           | Detecting Web Attacks                 | 10 min     | Web Application Firewalls (brief review of content)| ✅ Done        |
+| 21  | 22 Feb     | TryHackMe           | Detecting Web Attacks                 | 30 min     | Network Based Detection, Web Application Firewalls | ✅ Done        |
 | ... | ...        | ...                 | ...                                   | ...        | ...                                                | ...             |
 
 ### Legend 
