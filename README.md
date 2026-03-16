@@ -14,10 +14,8 @@ While I explore multiple platforms, my primary starting point is **TryHackMe** (
 
 ## 🎯 Goals
 
-- ✅ Complete 30 days (Phase 1 - The aim is go from Full Moon to Full moon the next being the 3rd of March)
-- 🕐 Progress to 30, 48 (1st Mandala) then 90 days
 - 📚 Improve in Security Research, Investigation Methodology, Malware Analysis, Threat Hunting, Web Exploitation, Learn new skills...
-- 🚀 Build consistency, clarity, and confidence
+- 🚀 Build consistency, clarity, and understanding of threats, security principles and attacker methodologies.
 
 ## 📌 What You'll Find Here
 
@@ -25,6 +23,12 @@ While I explore multiple platforms, my primary starting point is **TryHackMe** (
 - Lab reflections and key takeaways  
 - Daily Progress tracking  
 - Weekly retrospectives
+
+## 📈 Milestones
+
+- ✅ Cycle 1 - 2 Feb to 23 Feb (Kickstart phase)
+- ⏳ Cycle 2 - 15 Mar to Day 11–30: Deepen learning and build momentum
+- 🔥 Day 31–90: Mastery and real-case emulation
 
 ---
 
@@ -117,11 +121,7 @@ Going through Web security basics
 
 ---
 
-## 📈 Milestones
 
-- ✅ Day 1–10: Kickstart phase
-- ⏳ Day 11–30: Deepen learning and build momentum
-- 🔥 Day 31–90: Mastery and real-case emulation
 
 ---
 
