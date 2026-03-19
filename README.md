@@ -129,7 +129,10 @@ Even on bad days, progress must exist.
 ---
 ### Cycle 2 (15 Mar 2026 - Ongoing)
 
-
+### Day 1 
+> Explored M365 Monitoring Basics Lab - Understanding Cloud Identity Providers i.e Systems responsible for creating and managing Digital identities (Attributes that represent an entity such as a person, device or software component). ID Providers handle authentication (verifying identity), authorization (controlling access), and auditing by recording identity-related activity across connected services.
+> Example of ID Providers: Entra ID (Azure AD), Google, GitHub, LinkedIn, Twitter, Facebook
+> Entra ID Components, Users and Sign-ins (Authentication), Roles and Access Decisions (Authorization), Audit logs that capture administrative actions and changes made within the Entra ID environment.
 ---
 
 ## 📦 Tools & Platforms
