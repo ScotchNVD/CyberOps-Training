@@ -142,6 +142,22 @@ Even on bad days, progress must exist.
 > Reviewed Conditional Access Policies and Identity Protection.
 > With Conditional Access Policies, entities are given access only if they meet certain requirements. A sign-in is evaluated against a set of policies, and based on the policy's findings, it either grants access, requires an additional control (such as MFA), or blocks the request entirely.
 > CAP Examples: Require MFA for all users, Block legacy authentication, Block sign-ins from risky locations, Require compliant device, Risk-based block
+> Identity Protection - A built-in ML-based risk detection engine that informs Conditional Access when suspicious activity is detected. It continuously analyses sign-in behaviour and user account signals, assigns risk scores, and feeds those scores into Conditional Access so risk-based policies can act on them.
+> ID Protection Sign-in Risk: Anonymous IP address, Impossible Travel, Unfamiliar Sign-in Properties
+> ID Protection: Leaked credentials, Multiple high-risk sign-ins, Suspicious M365 activity
+
+### Day 4 
+> Looked at MFA Bypass Techniques - MFA Fatigue (Prompt Bombing) bombarding the user with multiple recurring MFA prompts the user ends up approving a request out of annoyance, frustation, confusion or mistaken assumption of the request being legitimate
+> MFA Fatigue Examples: A high volume of MFA prompts against a single account in a short window. Repeated MFA-related error codes, such as 50074, 50076,500121, followed by code 0 indicating successful login.
+> Mitigation:  Number matching (the user must enter a number shown on the login screen into their Authenticator app) and additional context (the app shows location and app name). These controls make fatigue attacks significantly harder.
+> SIM Swapping - The attacker convinces a mobile carrier to port the victim's phone number to a SIM they control, allowing them to receive all SMS codes
+> Adversary-in-the-Middle (AiTM) Phishing - The attacker setups a reverse proxy between the victim and the legitimate service, The victim authenticates normally including MFA, the proxy captures the session-token issued after authentication, which the attacker replays to their own machine.
+> From the token's perspective, the session is legitimate. The attack doesn't break MFA; it steals the MFA result.
+> AiTM Example: The sign-in succeeds without a new MFA prompt since the token already carries proof that MFA was completed. The sign-in succeeds without a new MFA prompt because the token already carries proof that MFA was completed during the original (victim's) authentication.
+
+
+
+
 
 
 ---
