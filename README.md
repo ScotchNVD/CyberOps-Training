@@ -126,7 +126,9 @@ Even on bad days, progress must exist.
 ### Day 22
 > Introduction to web shells as techniques for gaining initial-access on targeted web servers and establishing persistence through remote command execution
 
-...
+---
+### Cycle 2 (15 Mar 2026 - Ongoing)
+
 
 ---
 
